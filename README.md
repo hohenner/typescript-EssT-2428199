@@ -5,6 +5,8 @@
 | https://typescriptlang.org | Typescript language definition |
 | https://typescriptlang.org/docs/handbook/intro.html | Typescript language definition |
 | https://nodejs.org/ | NodeJS homepage |
+| https://github.com/definitelytyped/definitelytyped | type definitions for common Javascript libraries |
+| https://www.npmjs.com | Javascript library source |
 
 # TypeScript Essential Training
 This is the repository for the LinkedIn Learning course TypeScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
